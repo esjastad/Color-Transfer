@@ -4,14 +4,14 @@ This python program transfers the color scheme from one image to another
 
 ## Linux: 
 
-**1. Install anaconda: **
+**1. Install anaconda:**
 
 wget https://repo.continuum.io/archive/Anaconda3-2018.12-Linux-x86_64.sh
 bash Anaconda3-2018.12-Linux-x86_64.sh -b -p $HOME/anaconda
 export PATH="$HOME/anaconda/bin:$PATH"
 conda update --all
 
-**2. Install necessary libraries: **
+**2. Install necessary libraries:**
 
 pip install opencv-python
 pip install scikit-image
