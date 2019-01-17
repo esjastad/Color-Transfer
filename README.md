@@ -46,8 +46,9 @@ The provided sources are for argument 1
 The provided targets are for argument 2  
 
 The results files are what you should get for your file name in argument 3,
-**May contain errors if depending on the images used**
-.
+**May contain errors if depending on the images used**  
+
+
 Author: Erik Jastad  
 
 Resources: http://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf
