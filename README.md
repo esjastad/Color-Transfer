@@ -2,7 +2,7 @@
 ## Color Transfer CS410/510 Computer Vision
 This python program transfers the color scheme from one image to another
 
-##Linux: 
+## Linux: 
 
 **1. Install anaconda: **
 
@@ -17,7 +17,7 @@ pip install opencv-python
 pip install scikit-image
 
 
-##Windows: 
+## Windows: 
 
 **1. Download and install anaconda environment Python 3.7: **
 Download: https://www.anaconda.com/download/#windows
@@ -31,7 +31,7 @@ Start Menu / Anaconda3 / Anaconda Prompt
 pip install opencv-python
 pip install scikit-image
 
-##Running the file
+## Running the file
 color_transfer.py takes in 5 arguments
 arg 1 = the image file to apply the color scheme to
 arg 2 = the image file to take the color scheme from
