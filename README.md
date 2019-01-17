@@ -41,5 +41,10 @@ arg 5 = The resulting transfers file when using CIECAM97s color space
 **EXAMPLE**  
 python color_transfer.py source1.png target1.png LabResult.png RGBResult.png CIECAM97sResult.png  
 
+## Examples Provided
+The provided sources are for argument 1  
+The provided targets are for argument 2  
+
+The results files are what you should get for your file name in argument 3,
 **May contain errors if depending on the images used**
 .
